@@ -344,6 +344,7 @@ body {
 .news__container {
 	max-width: 1020px;
 	margin: 0 auto;
+	overflow: hidden;
 }
 
 .news__posts {
