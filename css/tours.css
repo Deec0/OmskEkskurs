@@ -344,6 +344,7 @@ body {
 .tours__container {
 	max-width: 1020px;
 	margin: 0 auto;
+	overflow: hidden;
 }
 
 .tours__posts {
